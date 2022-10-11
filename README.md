@@ -73,7 +73,21 @@
     <br/>
 </details>
 
+<details>
+    <summary><b>⚡ Cool Projects</b></summary>
+    <br/>
+    <p align="center">
+        <a href="https://github.com/fr98/jet-python">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=fr98&repo=jet-python&theme=dark" />
+        </a>
+    </p>
+    <br/>
+</details>
+
 <!--
+https://github.com/rahul-jha98/github-stats-transparent
+https://github.com/marketplace/actions/profile-readme-development-stats
+
 **FR98/FR98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
