@@ -10,7 +10,13 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rails,django,react,redux,vue,nodejs,alpinejs,express,jest,sass,bootstrap,md" />
+        <img src="https://skillicons.dev/icons?i=rails,django,react,redux,vue,nodejs" />
+        <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" width="45" />
+        <img src="https://skillicons.dev/icons?i=alpinejs,express" />
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="50" />
+        <img src="https://skillicons.dev/icons?i=jest,sass,bootstrap" />
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" width="30" />
+        <img src="https://skillicons.dev/icons?i=md" />
     </a>
 </p>
 
