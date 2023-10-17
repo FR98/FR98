@@ -14,6 +14,12 @@
 ## Programming Languages and Technologies
 <p align="center">
     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ruby,py,solidity,js,html,css,java,kotlin,bash,c,cs,cpp" />
     </a>
 </p>
@@ -38,13 +44,13 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" />
+        <img src="https://skillicons.dev/icons?i=nginx,githubactions" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase" />
+        <img src="https://skillicons.dev/icons?i=git,github" />
     </a>
 </p>
 
@@ -57,7 +63,7 @@
 ## Learning
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nginx,githubactions,dart,flutter,cloudflare,docker,electron,flask,webpack" />
+        <img src="https://skillicons.dev/icons?i=dart,flutter,cloudflare,docker,electron,flask,webpack" />
     </a>
 </p>
 
